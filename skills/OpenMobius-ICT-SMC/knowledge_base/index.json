@@ -1,0 +1,2667 @@
+{
+  "generated_at": "2026-05-23T13:01:18.480085+00:00",
+  "n_concepts": 665,
+  "n_cases": 1246,
+  "concepts": [
+    {
+      "card_id": "d_line",
+      "canonical_term": "%D line"
+    },
+    {
+      "card_id": "k_line",
+      "canonical_term": "%K Line"
+    },
+    {
+      "card_id": "1_2_rule",
+      "canonical_term": "1-2% Rule"
+    },
+    {
+      "card_id": "10_00_am_four_hour_candle_open",
+      "canonical_term": "10:00 AM Four-Hour Candle Open"
+    },
+    {
+      "card_id": "2_1_2_reversal",
+      "canonical_term": "2 1 2 Reversal"
+    },
+    {
+      "card_id": "2_2_reversal",
+      "canonical_term": "2 2 Reversal"
+    },
+    {
+      "card_id": "2_00_pm_four_hour_candle_open",
+      "canonical_term": "2:00 PM Four-Hour Candle Open"
+    },
+    {
+      "card_id": "4_hour_candle_ohlc_trading_model",
+      "canonical_term": "4-Hour Candle OHLC Trading Model"
+    },
+    {
+      "card_id": "4_hour_candle_structure",
+      "canonical_term": "4-Hour Candle Structure"
+    },
+    {
+      "card_id": "8_30_and_midnight_open",
+      "canonical_term": "8:30 and Midnight Open"
+    },
+    {
+      "card_id": "8_30_economic_news_release",
+      "canonical_term": "8:30 Economic News Release"
+    },
+    {
+      "card_id": "a_ict_entry_checklist",
+      "canonical_term": "A+ ICT Entry Checklist"
+    },
+    {
+      "card_id": "accumulation_manipulation_distribution",
+      "canonical_term": "Accumulation Manipulation Distribution"
+    },
+    {
+      "card_id": "accumulation_phase",
+      "canonical_term": "Accumulation Phase"
+    },
+    {
+      "card_id": "accumulation_manipulation_distribution_amd",
+      "canonical_term": "Accumulation, Manipulation, Distribution (AMD)"
+    },
+    {
+      "card_id": "aggressive_demand_zone",
+      "canonical_term": "Aggressive Demand Zone"
+    },
+    {
+      "card_id": "aggressive_pullback_model",
+      "canonical_term": "Aggressive Pullback Model"
+    },
+    {
+      "card_id": "aggressive_supply_zone",
+      "canonical_term": "Aggressive Supply Zone"
+    },
+    {
+      "card_id": "algorithmic_price_delivery",
+      "canonical_term": "Algorithmic Price Delivery"
+    },
+    {
+      "card_id": "aligned_timeframe",
+      "canonical_term": "Aligned Timeframe"
+    },
+    {
+      "card_id": "amd_accumulation_manipulation_distribution",
+      "canonical_term": "AMD (Accumulation, Manipulation, Distribution)"
+    },
+    {
+      "card_id": "arnaud_legoux_moving_average",
+      "canonical_term": "Arnaud Legoux Moving Average"
+    },
+    {
+      "card_id": "arnaud_legoux_moving_average_alma",
+      "canonical_term": "Arnaud Legoux Moving Average (ALMA)"
+    },
+    {
+      "card_id": "ascending_triangle",
+      "canonical_term": "Ascending Triangle"
+    },
+    {
+      "card_id": "asia_session",
+      "canonical_term": "Asia Session"
+    },
+    {
+      "card_id": "asia_session_range",
+      "canonical_term": "Asia Session Range"
+    },
+    {
+      "card_id": "asian_session_range",
+      "canonical_term": "Asian Session Range"
+    },
+    {
+      "card_id": "auto_chart_pattern_indicator",
+      "canonical_term": "Auto Chart Pattern Indicator"
+    },
+    {
+      "card_id": "automatic_rally",
+      "canonical_term": "Automatic Rally"
+    },
+    {
+      "card_id": "automatic_time_frame",
+      "canonical_term": "Automatic Time Frame"
+    },
+    {
+      "card_id": "average_daily_range",
+      "canonical_term": "Average Daily Range"
+    },
+    {
+      "card_id": "average_true_range",
+      "canonical_term": "Average True Range"
+    },
+    {
+      "card_id": "average_true_range_atr",
+      "canonical_term": "Average True Range (ATR)"
+    },
+    {
+      "card_id": "backtesting",
+      "canonical_term": "Backtesting"
+    },
+    {
+      "card_id": "balanced_price_range",
+      "canonical_term": "Balanced Price Range"
+    },
+    {
+      "card_id": "base_currency",
+      "canonical_term": "Base Currency"
+    },
+    {
+      "card_id": "basic_order_block_entry",
+      "canonical_term": "Basic Order Block Entry"
+    },
+    {
+      "card_id": "bear_flag",
+      "canonical_term": "Bear Flag"
+    },
+    {
+      "card_id": "bearish_divergence",
+      "canonical_term": "Bearish Divergence"
+    },
+    {
+      "card_id": "bearish_engulfing_pattern",
+      "canonical_term": "Bearish Engulfing Pattern"
+    },
+    {
+      "card_id": "bearish_fair_value_gap_sibi",
+      "canonical_term": "Bearish Fair Value Gap (SIBI)"
+    },
+    {
+      "card_id": "bias",
+      "canonical_term": "Bias"
+    },
+    {
+      "card_id": "bias_identification_using_box_setup",
+      "canonical_term": "Bias Identification using Box Setup"
+    },
+    {
+      "card_id": "bias_selection",
+      "canonical_term": "Bias Selection"
+    },
+    {
+      "card_id": "body_invalidation",
+      "canonical_term": "Body Invalidation"
+    },
+    {
+      "card_id": "body_vs_wick_selection",
+      "canonical_term": "Body vs Wick Selection"
+    },
+    {
+      "card_id": "bollinger_bands",
+      "canonical_term": "Bollinger Bands"
+    },
+    {
+      "card_id": "bollinger_bands_squeeze",
+      "canonical_term": "Bollinger Bands Squeeze"
+    },
+    {
+      "card_id": "bonds",
+      "canonical_term": "Bonds"
+    },
+    {
+      "card_id": "box_setup",
+      "canonical_term": "Box Setup"
+    },
+    {
+      "card_id": "break_of_structure",
+      "canonical_term": "Break of Structure"
+    },
+    {
+      "card_id": "break_even_win_rate",
+      "canonical_term": "Break-even Win Rate"
+    },
+    {
+      "card_id": "breaker_block",
+      "canonical_term": "Breaker Block"
+    },
+    {
+      "card_id": "breaker_block_continuation",
+      "canonical_term": "Breaker Block Continuation"
+    },
+    {
+      "card_id": "breaker_structure",
+      "canonical_term": "Breaker Structure"
+    },
+    {
+      "card_id": "breakout",
+      "canonical_term": "Breakout"
+    },
+    {
+      "card_id": "breakout_vs_manipulation",
+      "canonical_term": "Breakout vs Manipulation"
+    },
+    {
+      "card_id": "broadening_formation",
+      "canonical_term": "Broadening Formation"
+    },
+    {
+      "card_id": "bull_flag_pattern",
+      "canonical_term": "Bull Flag Pattern"
+    },
+    {
+      "card_id": "bullish_and_bearish_candles",
+      "canonical_term": "Bullish and Bearish Candles"
+    },
+    {
+      "card_id": "bullish_divergence",
+      "canonical_term": "Bullish Divergence"
+    },
+    {
+      "card_id": "bullish_engulfing",
+      "canonical_term": "Bullish Engulfing"
+    },
+    {
+      "card_id": "bullish_fair_value_gap_bfvg",
+      "canonical_term": "Bullish Fair Value Gap (BFVG)"
+    },
+    {
+      "card_id": "buy_side_liquidity",
+      "canonical_term": "Buy Side Liquidity"
+    },
+    {
+      "card_id": "buyside_sellside_liquidity",
+      "canonical_term": "Buyside/Sellside Liquidity"
+    },
+    {
+      "card_id": "candle_1_sweep",
+      "canonical_term": "Candle 1 Sweep"
+    },
+    {
+      "card_id": "reversal_closure",
+      "canonical_term": "Candle 2 Closure"
+    },
+    {
+      "card_id": "candle_2_closure_c2",
+      "canonical_term": "Candle 2 Closure (C2)"
+    },
+    {
+      "card_id": "candle_2_3_closure",
+      "canonical_term": "Candle 2/3 Closure"
+    },
+    {
+      "card_id": "candle_3",
+      "canonical_term": "Candle 3"
+    },
+    {
+      "card_id": "candle_3_closure_c3",
+      "canonical_term": "Candle 3 Closure (C3)"
+    },
+    {
+      "card_id": "candle_3_continuation",
+      "canonical_term": "Candle 3 Continuation"
+    },
+    {
+      "card_id": "candle_3_expansion",
+      "canonical_term": "Candle 3 Expansion"
+    },
+    {
+      "card_id": "candle_4_continuation",
+      "canonical_term": "Candle 4 Continuation"
+    },
+    {
+      "card_id": "candle_breakout_entry_method",
+      "canonical_term": "Candle Breakout Entry Method"
+    },
+    {
+      "card_id": "candle_close_confirmation",
+      "canonical_term": "Candle Close Confirmation"
+    },
+    {
+      "card_id": "candle_closure",
+      "canonical_term": "Candle Closure"
+    },
+    {
+      "card_id": "candle_three_closure",
+      "canonical_term": "Candle Three Closure"
+    },
+    {
+      "card_id": "candle_two_closure",
+      "canonical_term": "Candle Two Closure"
+    },
+    {
+      "card_id": "candlestick_anatomy",
+      "canonical_term": "Candlestick Anatomy"
+    },
+    {
+      "card_id": "candlestick_components_open_high_low_close",
+      "canonical_term": "Candlestick Components (Open, High, Low, Close)"
+    },
+    {
+      "card_id": "candlestick_formation_types",
+      "canonical_term": "Candlestick Formation Types"
+    },
+    {
+      "card_id": "candlestick_pattern",
+      "canonical_term": "Candlestick Pattern"
+    },
+    {
+      "card_id": "change_in_state_of_delivery",
+      "canonical_term": "Change In State Of Delivery"
+    },
+    {
+      "card_id": "change_in_state_of_delivery_csd",
+      "canonical_term": "Change in State of Delivery (CSD)"
+    },
+    {
+      "card_id": "inversion",
+      "canonical_term": "Change in the State of Delivery"
+    },
+    {
+      "card_id": "change_in_the_state_of_delivery_bearish",
+      "canonical_term": "Change in the State of Delivery (Bearish)"
+    },
+    {
+      "card_id": "change_in_the_state_of_delivery_cisd",
+      "canonical_term": "Change in the State of Delivery (CISD)"
+    },
+    {
+      "card_id": "change_in_the_state_of_delivery_csd",
+      "canonical_term": "Change in the State of Delivery (CSD)"
+    },
+    {
+      "card_id": "change_of_character",
+      "canonical_term": "Change of Character"
+    },
+    {
+      "card_id": "chart_pattern",
+      "canonical_term": "Chart Pattern"
+    },
+    {
+      "card_id": "cheat_code_entry",
+      "canonical_term": "Cheat Code Entry"
+    },
+    {
+      "card_id": "classic_expansion_week",
+      "canonical_term": "Classic Expansion Week"
+    },
+    {
+      "card_id": "closure_through_down_close_candles",
+      "canonical_term": "Closure Through Down Close Candles"
+    },
+    {
+      "card_id": "cluster_of_candles_method",
+      "canonical_term": "Cluster of Candles Method"
+    },
+    {
+      "card_id": "cluster_of_three_candles_method",
+      "canonical_term": "Cluster of Three Candles Method"
+    },
+    {
+      "card_id": "commodities",
+      "canonical_term": "Commodities"
+    },
+    {
+      "card_id": "confirmation_levels",
+      "canonical_term": "Confirmation Levels"
+    },
+    {
+      "card_id": "confluence",
+      "canonical_term": "Confluence"
+    },
+    {
+      "card_id": "consequent_encroachment",
+      "canonical_term": "Consequent Encroachment"
+    },
+    {
+      "card_id": "consolidation",
+      "canonical_term": "Consolidation"
+    },
+    {
+      "card_id": "consolidation_range",
+      "canonical_term": "Consolidation / Range"
+    },
+    {
+      "card_id": "consolidation_anticipation_and_retracement",
+      "canonical_term": "Consolidation Anticipation and Retracement"
+    },
+    {
+      "card_id": "consolidation_pattern",
+      "canonical_term": "Consolidation Pattern"
+    },
+    {
+      "card_id": "consolidation_reversal",
+      "canonical_term": "Consolidation Reversal"
+    },
+    {
+      "card_id": "consolidation_vs_directional_moves",
+      "canonical_term": "Consolidation vs Directional Moves"
+    },
+    {
+      "card_id": "consumer_price_index",
+      "canonical_term": "Consumer Price Index"
+    },
+    {
+      "card_id": "continuation",
+      "canonical_term": "Continuation"
+    },
+    {
+      "card_id": "continuation_closure",
+      "canonical_term": "Continuation Closure"
+    },
+    {
+      "card_id": "continuation_entry_model",
+      "canonical_term": "Continuation Entry Model"
+    },
+    {
+      "card_id": "continuation_of_trend",
+      "canonical_term": "Continuation of Trend"
+    },
+    {
+      "card_id": "continuation_order_block",
+      "canonical_term": "Continuation Order Block"
+    },
+    {
+      "card_id": "continuation_pattern",
+      "canonical_term": "Continuation Pattern"
+    },
+    {
+      "card_id": "continuation_psp",
+      "canonical_term": "Continuation PSP"
+    },
+    {
+      "card_id": "continuation_setup",
+      "canonical_term": "Continuation Setup"
+    },
+    {
+      "card_id": "continuation_signal",
+      "canonical_term": "Continuation Signal"
+    },
+    {
+      "card_id": "continuation_signature",
+      "canonical_term": "Continuation Signature"
+    },
+    {
+      "card_id": "continuation_trading",
+      "canonical_term": "Continuation Trading"
+    },
+    {
+      "card_id": "continuation_vs_reversal",
+      "canonical_term": "Continuation vs Reversal"
+    },
+    {
+      "card_id": "convergence",
+      "canonical_term": "Convergence"
+    },
+    {
+      "card_id": "corrective_move",
+      "canonical_term": "Corrective Move"
+    },
+    {
+      "card_id": "corrective_pullback",
+      "canonical_term": "Corrective Pullback"
+    },
+    {
+      "card_id": "correlated_asset_triad",
+      "canonical_term": "Correlated Asset Triad"
+    },
+    {
+      "card_id": "correlated_markets",
+      "canonical_term": "Correlated Markets"
+    },
+    {
+      "card_id": "correlated_pairs",
+      "canonical_term": "Correlated Pairs"
+    },
+    {
+      "card_id": "correlation_reversal",
+      "canonical_term": "Correlation Reversal"
+    },
+    {
+      "card_id": "counter_trend_scalp",
+      "canonical_term": "Counter Trend Scalp"
+    },
+    {
+      "card_id": "cracking_correlation",
+      "canonical_term": "Cracking Correlation"
+    },
+    {
+      "card_id": "cryptocurrencies",
+      "canonical_term": "Cryptocurrencies"
+    },
+    {
+      "card_id": "currency_futures_pairing_strategy",
+      "canonical_term": "Currency Futures Pairing Strategy"
+    },
+    {
+      "card_id": "currency_pair",
+      "canonical_term": "Currency Pair"
+    },
+    {
+      "card_id": "currency_pair_fraction_framework",
+      "canonical_term": "Currency Pair Fraction Framework"
+    },
+    {
+      "card_id": "currency_pairing_strategy_with_dollar_consolidating",
+      "canonical_term": "Currency Pairing Strategy with Dollar Consolidating"
+    },
+    {
+      "card_id": "currency_pairing_strategy_with_dollar_trending",
+      "canonical_term": "Currency Pairing Strategy with Dollar Trending"
+    },
+    {
+      "card_id": "daily_bias",
+      "canonical_term": "Daily Bias"
+    },
+    {
+      "card_id": "daily_bias_alignment",
+      "canonical_term": "Daily Bias Alignment"
+    },
+    {
+      "card_id": "daily_high",
+      "canonical_term": "Daily High"
+    },
+    {
+      "card_id": "daily_low",
+      "canonical_term": "Daily Low"
+    },
+    {
+      "card_id": "daily_open",
+      "canonical_term": "Daily Open"
+    },
+    {
+      "card_id": "daily_open_high_low_close_ohlc",
+      "canonical_term": "Daily Open High Low Close (OHLC)"
+    },
+    {
+      "card_id": "daily_profile",
+      "canonical_term": "Daily Profile"
+    },
+    {
+      "card_id": "daily_profile_open_high_low_close",
+      "canonical_term": "Daily Profile (Open, High, Low, Close)"
+    },
+    {
+      "card_id": "daily_profile_session_analysis",
+      "canonical_term": "Daily Profile / Session Analysis"
+    },
+    {
+      "card_id": "daily_time_levels",
+      "canonical_term": "Daily Time Levels"
+    },
+    {
+      "card_id": "day_trading",
+      "canonical_term": "Day Trading"
+    },
+    {
+      "card_id": "dealing_range",
+      "canonical_term": "Dealing Range"
+    },
+    {
+      "card_id": "delta",
+      "canonical_term": "Delta"
+    },
+    {
+      "card_id": "demand_zone",
+      "canonical_term": "Demand Zone"
+    },
+    {
+      "card_id": "deviation_from_range",
+      "canonical_term": "Deviation from Range"
+    },
+    {
+      "card_id": "directional_bias",
+      "canonical_term": "Directional Bias"
+    },
+    {
+      "card_id": "directional_candle",
+      "canonical_term": "Directional Candle"
+    },
+    {
+      "card_id": "discount",
+      "canonical_term": "Discount"
+    },
+    {
+      "card_id": "discount_premium",
+      "canonical_term": "Discount / Premium"
+    },
+    {
+      "card_id": "displacement",
+      "canonical_term": "Displacement"
+    },
+    {
+      "card_id": "disrespect",
+      "canonical_term": "Disrespect"
+    },
+    {
+      "card_id": "divergence",
+      "canonical_term": "Divergence"
+    },
+    {
+      "card_id": "doji_candlestick",
+      "canonical_term": "Doji Candlestick"
+    },
+    {
+      "card_id": "double_bottom",
+      "canonical_term": "Double Bottom"
+    },
+    {
+      "card_id": "double_top",
+      "canonical_term": "Double Top"
+    },
+    {
+      "card_id": "double_zone_breakout",
+      "canonical_term": "Double Zone Breakout"
+    },
+    {
+      "card_id": "down_close_candle",
+      "canonical_term": "Down-Close Candle"
+    },
+    {
+      "card_id": "downtrend",
+      "canonical_term": "Downtrend"
+    },
+    {
+      "card_id": "downtrend_bearish_trend",
+      "canonical_term": "Downtrend / Bearish Trend"
+    },
+    {
+      "card_id": "dragonfly_doji",
+      "canonical_term": "Dragonfly Doji"
+    },
+    {
+      "card_id": "draw_on_liquidity",
+      "canonical_term": "Draw on Liquidity"
+    },
+    {
+      "card_id": "draw_on_liquidity_dol",
+      "canonical_term": "Draw on Liquidity (DOL)"
+    },
+    {
+      "card_id": "drawdown",
+      "canonical_term": "Drawdown"
+    },
+    {
+      "card_id": "dumb_money",
+      "canonical_term": "Dumb Money"
+    },
+    {
+      "card_id": "dynamic_liquidity",
+      "canonical_term": "Dynamic Liquidity"
+    },
+    {
+      "card_id": "economic_calendar",
+      "canonical_term": "Economic Calendar"
+    },
+    {
+      "card_id": "engulfing_candle",
+      "canonical_term": "Engulfing Candle"
+    },
+    {
+      "card_id": "entry",
+      "canonical_term": "Entry"
+    },
+    {
+      "card_id": "entry_placement_adjustments",
+      "canonical_term": "Entry Placement Adjustments"
+    },
+    {
+      "card_id": "entry_sequence",
+      "canonical_term": "Entry Sequence"
+    },
+    {
+      "card_id": "entry_signal",
+      "canonical_term": "Entry Signal"
+    },
+    {
+      "card_id": "entry_timeframe",
+      "canonical_term": "Entry Timeframe"
+    },
+    {
+      "card_id": "entry_stop_loss_target",
+      "canonical_term": "Entry, Stop Loss, Target"
+    },
+    {
+      "card_id": "equal_highs",
+      "canonical_term": "Equal Highs"
+    },
+    {
+      "card_id": "equal_highs_equal_lows",
+      "canonical_term": "Equal Highs / Equal Lows"
+    },
+    {
+      "card_id": "equal_highs_and_equal_lows",
+      "canonical_term": "Equal Highs and Equal Lows"
+    },
+    {
+      "card_id": "equal_highs_and_lows",
+      "canonical_term": "Equal Highs and Lows"
+    },
+    {
+      "card_id": "equal_highs_lows",
+      "canonical_term": "Equal Highs/Lows"
+    },
+    {
+      "card_id": "equal_highs_lows_sweep_fvg_strategy",
+      "canonical_term": "Equal Highs/Lows Sweep + FVG Strategy"
+    },
+    {
+      "card_id": "equal_low",
+      "canonical_term": "Equal Low"
+    },
+    {
+      "card_id": "equal_lows",
+      "canonical_term": "Equal Lows"
+    },
+    {
+      "card_id": "equilibrium",
+      "canonical_term": "Equilibrium"
+    },
+    {
+      "card_id": "equilibrium_eq",
+      "canonical_term": "Equilibrium (EQ)"
+    },
+    {
+      "card_id": "es_nq_ratio",
+      "canonical_term": "ES/NQ Ratio"
+    },
+    {
+      "card_id": "es_nq_ratio_chart",
+      "canonical_term": "ES/NQ Ratio Chart"
+    },
+    {
+      "card_id": "es_nq_ratio_reversal",
+      "canonical_term": "ES/NQ Ratio Reversal"
+    },
+    {
+      "card_id": "exchange_traded_fund",
+      "canonical_term": "Exchange Traded Fund"
+    },
+    {
+      "card_id": "exotic_pairs",
+      "canonical_term": "Exotic Pairs"
+    },
+    {
+      "card_id": "expansion_day",
+      "canonical_term": "Expansion"
+    },
+    {
+      "card_id": "expansion_and_consolidation",
+      "canonical_term": "Expansion and Consolidation"
+    },
+    {
+      "card_id": "expansion_and_relative_strength_analysis",
+      "canonical_term": "Expansion and Relative Strength Analysis"
+    },
+    {
+      "card_id": "expansion_and_retracement",
+      "canonical_term": "Expansion and Retracement"
+    },
+    {
+      "card_id": "expansion_candle_vs_reversal_candle",
+      "canonical_term": "Expansion Candle vs Reversal Candle"
+    },
+    {
+      "card_id": "expansion_into_retracement",
+      "canonical_term": "Expansion into Retracement"
+    },
+    {
+      "card_id": "expansion_met_with_expansion",
+      "canonical_term": "Expansion met with Expansion"
+    },
+    {
+      "card_id": "expected_value",
+      "canonical_term": "Expected Value"
+    },
+    {
+      "card_id": "exponential_moving_average",
+      "canonical_term": "Exponential Moving Average"
+    },
+    {
+      "card_id": "external_break_of_structure",
+      "canonical_term": "External Break of Structure"
+    },
+    {
+      "card_id": "external_change_of_character",
+      "canonical_term": "External Change of Character"
+    },
+    {
+      "card_id": "external_liquidity",
+      "canonical_term": "External Liquidity"
+    },
+    {
+      "card_id": "external_range_liquidity",
+      "canonical_term": "External Range Liquidity"
+    },
+    {
+      "card_id": "external_structure",
+      "canonical_term": "External Structure"
+    },
+    {
+      "card_id": "failed_breakout",
+      "canonical_term": "Failed Breakout"
+    },
+    {
+      "card_id": "failure_swing",
+      "canonical_term": "Failure Swing"
+    },
+    {
+      "card_id": "failure_test",
+      "canonical_term": "Failure Test"
+    },
+    {
+      "card_id": "failure_to_displace",
+      "canonical_term": "Failure to Displace"
+    },
+    {
+      "card_id": "fair_value_gap",
+      "canonical_term": "Fair Value Gap"
+    },
+    {
+      "card_id": "fair_value_gap_rebalance",
+      "canonical_term": "Fair Value Gap Rebalance"
+    },
+    {
+      "card_id": "falling_wedge",
+      "canonical_term": "Falling Wedge"
+    },
+    {
+      "card_id": "federal_open_market_committee",
+      "canonical_term": "Federal Open Market Committee"
+    },
+    {
+      "card_id": "fibonacci_extension",
+      "canonical_term": "Fibonacci Extension"
+    },
+    {
+      "card_id": "fibonacci_projection",
+      "canonical_term": "Fibonacci Projection"
+    },
+    {
+      "card_id": "fibonacci_retracement",
+      "canonical_term": "Fibonacci Retracement"
+    },
+    {
+      "card_id": "fibonacci_retracement_settings",
+      "canonical_term": "Fibonacci Retracement Settings"
+    },
+    {
+      "card_id": "fixed_contract_size",
+      "canonical_term": "Fixed Contract Size"
+    },
+    {
+      "card_id": "fixed_dollar_risk",
+      "canonical_term": "Fixed Dollar Risk"
+    },
+    {
+      "card_id": "fixed_dollar_risk_fixed_percentage_risk",
+      "canonical_term": "Fixed Dollar Risk / Fixed Percentage Risk"
+    },
+    {
+      "card_id": "forex",
+      "canonical_term": "Forex"
+    },
+    {
+      "card_id": "forex_trading",
+      "canonical_term": "Forex Trading"
+    },
+    {
+      "card_id": "formation_liquidity",
+      "canonical_term": "Formation Liquidity"
+    },
+    {
+      "card_id": "fractal",
+      "canonical_term": "Fractal"
+    },
+    {
+      "card_id": "fractal_model",
+      "canonical_term": "Fractal Model"
+    },
+    {
+      "card_id": "fractal_model_candle_2_3_4",
+      "canonical_term": "Fractal Model - Candle 2, 3, 4"
+    },
+    {
+      "card_id": "fractal_model_candle_phases",
+      "canonical_term": "Fractal Model - Candle Phases"
+    },
+    {
+      "card_id": "fractal_model_info_table",
+      "canonical_term": "Fractal Model Info Table"
+    },
+    {
+      "card_id": "free_bar",
+      "canonical_term": "Free Bar"
+    },
+    {
+      "card_id": "futures_currency_trading_strategy",
+      "canonical_term": "Futures Currency Trading Strategy"
+    },
+    {
+      "card_id": "fvg_psychology",
+      "canonical_term": "FVG Psychology"
+    },
+    {
+      "card_id": "fvg_trading_rules",
+      "canonical_term": "FVG Trading Rules"
+    },
+    {
+      "card_id": "garrett_s_4_hour_profiling_with_fractal_model",
+      "canonical_term": "Garrett's 4-Hour Profiling with Fractal Model"
+    },
+    {
+      "card_id": "going_long",
+      "canonical_term": "Going Long"
+    },
+    {
+      "card_id": "going_short",
+      "canonical_term": "Going Short"
+    },
+    {
+      "card_id": "golden_pocket",
+      "canonical_term": "Golden Pocket"
+    },
+    {
+      "card_id": "golden_zone",
+      "canonical_term": "Golden Zone"
+    },
+    {
+      "card_id": "hammer",
+      "canonical_term": "Hammer"
+    },
+    {
+      "card_id": "hammer_candle",
+      "canonical_term": "Hammer Candle"
+    },
+    {
+      "card_id": "hammer_shooter_candle",
+      "canonical_term": "Hammer/Shooter Candle"
+    },
+    {
+      "card_id": "head_and_shoulders",
+      "canonical_term": "Head and Shoulders"
+    },
+    {
+      "card_id": "hidden_bearish_divergence",
+      "canonical_term": "Hidden Bearish Divergence"
+    },
+    {
+      "card_id": "hidden_bullish_divergence",
+      "canonical_term": "Hidden Bullish Divergence"
+    },
+    {
+      "card_id": "high_resistance_liquidity",
+      "canonical_term": "High Resistance Liquidity"
+    },
+    {
+      "card_id": "high_low_probability_order_block",
+      "canonical_term": "High/Low Probability Order Block"
+    },
+    {
+      "card_id": "high_low_time_frame",
+      "canonical_term": "High/Low Time Frame"
+    },
+    {
+      "card_id": "higher_high",
+      "canonical_term": "Higher High"
+    },
+    {
+      "card_id": "higher_high_higher_low",
+      "canonical_term": "Higher High / Higher Low"
+    },
+    {
+      "card_id": "higher_low",
+      "canonical_term": "Higher Low"
+    },
+    {
+      "card_id": "higher_time_frame",
+      "canonical_term": "Higher Time Frame"
+    },
+    {
+      "card_id": "higher_time_frame_mitigation",
+      "canonical_term": "Higher Time Frame Mitigation"
+    },
+    {
+      "card_id": "higher_time_frame_point_of_interest",
+      "canonical_term": "Higher Time Frame Point of Interest"
+    },
+    {
+      "card_id": "higher_time_frame_points_of_interest",
+      "canonical_term": "Higher Time Frame Points of Interest"
+    },
+    {
+      "card_id": "higher_time_frame_target",
+      "canonical_term": "Higher Time Frame Target"
+    },
+    {
+      "card_id": "higher_time_frame_wick",
+      "canonical_term": "Higher Time Frame Wick"
+    },
+    {
+      "card_id": "higher_timeframe_analysis",
+      "canonical_term": "Higher Timeframe Analysis"
+    },
+    {
+      "card_id": "higher_timeframe_key_levels",
+      "canonical_term": "Higher Timeframe Key Levels"
+    },
+    {
+      "card_id": "history_setting",
+      "canonical_term": "History Setting"
+    },
+    {
+      "card_id": "horizontal_line",
+      "canonical_term": "Horizontal Line"
+    },
+    {
+      "card_id": "htf_ltf_high_time_frame_low_time_frame_analysis",
+      "canonical_term": "HTF / LTF (High Time Frame / Low Time Frame Analysis)"
+    },
+    {
+      "card_id": "htf_ltf_higher_time_frame_lower_time_frame",
+      "canonical_term": "HTF / LTF (Higher Time Frame / Lower Time Frame)"
+    },
+    {
+      "card_id": "htf_ltf_strategy",
+      "canonical_term": "HTF / LTF Strategy"
+    },
+    {
+      "card_id": "htf_candles_offset",
+      "canonical_term": "HTF Candles Offset"
+    },
+    {
+      "card_id": "htf_key_level",
+      "canonical_term": "HTF Key Level"
+    },
+    {
+      "card_id": "htf_ltf_analysis",
+      "canonical_term": "HTF-LTF Analysis"
+    },
+    {
+      "card_id": "htf_ltf_high_time_frame_low_time_frame",
+      "canonical_term": "HTF/LTF (High Time Frame / Low Time Frame)"
+    },
+    {
+      "card_id": "hull_moving_average",
+      "canonical_term": "Hull Moving Average"
+    },
+    {
+      "card_id": "ict_son_s_model",
+      "canonical_term": "ICT Son's Model"
+    },
+    {
+      "card_id": "imbalance_multi_timeframe_analysis",
+      "canonical_term": "Imbalance (Multi-Timeframe Analysis)"
+    },
+    {
+      "card_id": "important_time_levels",
+      "canonical_term": "Important Time Levels"
+    },
+    {
+      "card_id": "impulse_move",
+      "canonical_term": "Impulse Move"
+    },
+    {
+      "card_id": "indecision_candle",
+      "canonical_term": "Indecision Candle"
+    },
+    {
+      "card_id": "indicator_alerts",
+      "canonical_term": "Indicator Alerts"
+    },
+    {
+      "card_id": "inducement",
+      "canonical_term": "Inducement"
+    },
+    {
+      "card_id": "initial_candle",
+      "canonical_term": "Initial Candle"
+    },
+    {
+      "card_id": "initiation",
+      "canonical_term": "Initiation"
+    },
+    {
+      "card_id": "inside_bar",
+      "canonical_term": "Inside Bar"
+    },
+    {
+      "card_id": "intermarket_analysis",
+      "canonical_term": "Intermarket Analysis"
+    },
+    {
+      "card_id": "intermediate_term_high",
+      "canonical_term": "Intermediate Term High"
+    },
+    {
+      "card_id": "intermediate_term_high_low",
+      "canonical_term": "Intermediate Term High/Low"
+    },
+    {
+      "card_id": "intermediate_term_high_intermediate_term_low",
+      "canonical_term": "Intermediate-term High / Intermediate-term Low"
+    },
+    {
+      "card_id": "internal_and_external_break_of_structure_and_change_of_chara",
+      "canonical_term": "Internal and External Break of Structure and Change of Character"
+    },
+    {
+      "card_id": "internal_break_of_structure",
+      "canonical_term": "Internal Break of Structure"
+    },
+    {
+      "card_id": "internal_change_of_character",
+      "canonical_term": "Internal Change of Character"
+    },
+    {
+      "card_id": "internal_low",
+      "canonical_term": "Internal Low"
+    },
+    {
+      "card_id": "internal_range_liquidity",
+      "canonical_term": "Internal Range Liquidity"
+    },
+    {
+      "card_id": "internal_range_liquidity_external_range_liquidity",
+      "canonical_term": "Internal Range Liquidity / External Range Liquidity"
+    },
+    {
+      "card_id": "internal_structure",
+      "canonical_term": "Internal Structure"
+    },
+    {
+      "card_id": "internal_to_external_liquidity",
+      "canonical_term": "Internal to External Liquidity"
+    },
+    {
+      "card_id": "internal_to_external_model",
+      "canonical_term": "Internal to External Model"
+    },
+    {
+      "card_id": "internal_vs_external_structure",
+      "canonical_term": "Internal vs External Structure"
+    },
+    {
+      "card_id": "intraday_bias",
+      "canonical_term": "Intraday Bias"
+    },
+    {
+      "card_id": "intraday_bias_framework",
+      "canonical_term": "Intraday Bias Framework"
+    },
+    {
+      "card_id": "intraday_bias_refinement",
+      "canonical_term": "Intraday Bias Refinement"
+    },
+    {
+      "card_id": "intraweek_reversal",
+      "canonical_term": "Intraweek Reversal"
+    },
+    {
+      "card_id": "invalidation",
+      "canonical_term": "Invalidation"
+    },
+    {
+      "card_id": "invalidation_of_daily_bias",
+      "canonical_term": "Invalidation of Daily Bias"
+    },
+    {
+      "card_id": "inversely_correlated_pairs",
+      "canonical_term": "Inversely Correlated Pairs"
+    },
+    {
+      "card_id": "inversion_fvg_inversion",
+      "canonical_term": "Inversion (FVG Inversion)"
+    },
+    {
+      "card_id": "inversion_fair_value_gap",
+      "canonical_term": "Inversion Fair Value Gap"
+    },
+    {
+      "card_id": "inverted_fair_value_gap",
+      "canonical_term": "Inverted Fair Value Gap"
+    },
+    {
+      "card_id": "keltner_channels",
+      "canonical_term": "Keltner Channels"
+    },
+    {
+      "card_id": "kill_zone",
+      "canonical_term": "Kill Zone"
+    },
+    {
+      "card_id": "large_manipulation_leg_strategy",
+      "canonical_term": "Large Manipulation Leg Strategy"
+    },
+    {
+      "card_id": "large_opposing_run",
+      "canonical_term": "Large Opposing Run"
+    },
+    {
+      "card_id": "leverage",
+      "canonical_term": "Leverage"
+    },
+    {
+      "card_id": "liquidity",
+      "canonical_term": "Liquidity"
+    },
+    {
+      "card_id": "liquidity_buyside_sellside_liquidity",
+      "canonical_term": "Liquidity (Buyside/Sellside Liquidity)"
+    },
+    {
+      "card_id": "liquidity_buyside_sellside",
+      "canonical_term": "Liquidity (Buyside/Sellside)"
+    },
+    {
+      "card_id": "liquidity_confluence",
+      "canonical_term": "Liquidity Confluence"
+    },
+    {
+      "card_id": "liquidity_grab",
+      "canonical_term": "Liquidity Grab"
+    },
+    {
+      "card_id": "liquidity_pool",
+      "canonical_term": "Liquidity Pool"
+    },
+    {
+      "card_id": "liquidity_sweep",
+      "canonical_term": "Liquidity Sweep"
+    },
+    {
+      "card_id": "liquidity_sweep_asia_high_low",
+      "canonical_term": "Liquidity Sweep (Asia High/Low)"
+    },
+    {
+      "card_id": "liquidity_zones",
+      "canonical_term": "Liquidity Zones"
+    },
+    {
+      "card_id": "london_reversal",
+      "canonical_term": "London Reversal"
+    },
+    {
+      "card_id": "london_session",
+      "canonical_term": "London Session"
+    },
+    {
+      "card_id": "long_position_tool",
+      "canonical_term": "Long Position Tool"
+    },
+    {
+      "card_id": "long_term_high_low",
+      "canonical_term": "Long Term High/Low"
+    },
+    {
+      "card_id": "long_short_and_leverage",
+      "canonical_term": "Long, Short, and Leverage"
+    },
+    {
+      "card_id": "long_term_high_long_term_low",
+      "canonical_term": "Long-term High / Long-term Low"
+    },
+    {
+      "card_id": "lookback_period",
+      "canonical_term": "Lookback Period"
+    },
+    {
+      "card_id": "low_resistance_liquidity",
+      "canonical_term": "Low Resistance Liquidity"
+    },
+    {
+      "card_id": "low_time_frame_entry_model",
+      "canonical_term": "Low Time Frame Entry Model"
+    },
+    {
+      "card_id": "lower_highs_lower_lows",
+      "canonical_term": "Lower Highs / Lower Lows"
+    },
+    {
+      "card_id": "lower_time_frame",
+      "canonical_term": "Lower Time Frame"
+    },
+    {
+      "card_id": "lower_time_frame_alignment",
+      "canonical_term": "Lower Time Frame Alignment"
+    },
+    {
+      "card_id": "lower_time_frame_analysis",
+      "canonical_term": "Lower Time Frame Analysis"
+    },
+    {
+      "card_id": "lower_time_frame_entry_model",
+      "canonical_term": "Lower Time Frame Entry Model"
+    },
+    {
+      "card_id": "lower_time_frame_setups",
+      "canonical_term": "Lower Time Frame Setups"
+    },
+    {
+      "card_id": "lower_timeframe_confirmation",
+      "canonical_term": "Lower Timeframe Confirmation"
+    },
+    {
+      "card_id": "lower_timeframe_confirmation_entry",
+      "canonical_term": "Lower Timeframe Confirmation Entry"
+    },
+    {
+      "card_id": "lower_timeframe_entry_refinement",
+      "canonical_term": "Lower Timeframe Entry Refinement"
+    },
+    {
+      "card_id": "macd_settings_linda_raschke",
+      "canonical_term": "MACD Settings (Linda Raschke)"
+    },
+    {
+      "card_id": "major_change_of_character",
+      "canonical_term": "Major Change of Character"
+    },
+    {
+      "card_id": "major_high",
+      "canonical_term": "Major High"
+    },
+    {
+      "card_id": "major_low",
+      "canonical_term": "Major Low"
+    },
+    {
+      "card_id": "major_pairs",
+      "canonical_term": "Major Pairs"
+    },
+    {
+      "card_id": "major_swing",
+      "canonical_term": "Major Swing"
+    },
+    {
+      "card_id": "manipulation",
+      "canonical_term": "Manipulation"
+    },
+    {
+      "card_id": "manipulation_leg",
+      "canonical_term": "Manipulation Leg"
+    },
+    {
+      "card_id": "market_maker_buy_model",
+      "canonical_term": "Market Maker Buy Model"
+    },
+    {
+      "card_id": "market_maker_model",
+      "canonical_term": "Market Maker Model"
+    },
+    {
+      "card_id": "market_maker_sell_model",
+      "canonical_term": "Market Maker Sell Model"
+    },
+    {
+      "card_id": "market_movement_factors",
+      "canonical_term": "Market Movement Factors"
+    },
+    {
+      "card_id": "market_psychology",
+      "canonical_term": "Market Psychology"
+    },
+    {
+      "card_id": "market_structure",
+      "canonical_term": "Market Structure"
+    },
+    {
+      "card_id": "market_structure_shift",
+      "canonical_term": "Market Structure Shift"
+    },
+    {
+      "card_id": "marking_supply_and_demand_zones",
+      "canonical_term": "Marking Supply and Demand Zones"
+    },
+    {
+      "card_id": "max_expansion",
+      "canonical_term": "Max Expansion"
+    },
+    {
+      "card_id": "mean_threshold",
+      "canonical_term": "Mean Threshold"
+    },
+    {
+      "card_id": "measured_move",
+      "canonical_term": "Measured Move"
+    },
+    {
+      "card_id": "micro_contracts",
+      "canonical_term": "Micro Contracts"
+    },
+    {
+      "card_id": "micro_futures_contract",
+      "canonical_term": "Micro Futures Contract"
+    },
+    {
+      "card_id": "midnight_open",
+      "canonical_term": "Midnight Open"
+    },
+    {
+      "card_id": "midweek_reversal",
+      "canonical_term": "Midweek Reversal"
+    },
+    {
+      "card_id": "minor_change_of_character",
+      "canonical_term": "Minor Change of Character"
+    },
+    {
+      "card_id": "minor_pairs",
+      "canonical_term": "Minor Pairs"
+    },
+    {
+      "card_id": "minor_swing",
+      "canonical_term": "Minor Swing"
+    },
+    {
+      "card_id": "mitigation",
+      "canonical_term": "Mitigation"
+    },
+    {
+      "card_id": "mitigation_block",
+      "canonical_term": "Mitigation Block"
+    },
+    {
+      "card_id": "momentum",
+      "canonical_term": "Momentum"
+    },
+    {
+      "card_id": "momentum_candle",
+      "canonical_term": "Momentum Candle"
+    },
+    {
+      "card_id": "momentum_divergence",
+      "canonical_term": "Momentum Divergence"
+    },
+    {
+      "card_id": "money_flow_index",
+      "canonical_term": "Money Flow Index"
+    },
+    {
+      "card_id": "moving_average",
+      "canonical_term": "Moving Average"
+    },
+    {
+      "card_id": "moving_average_breakout",
+      "canonical_term": "Moving Average Breakout"
+    },
+    {
+      "card_id": "moving_average_convergence_divergence",
+      "canonical_term": "Moving Average Convergence Divergence"
+    },
+    {
+      "card_id": "moving_average_of_volume",
+      "canonical_term": "Moving Average of Volume"
+    },
+    {
+      "card_id": "multi_timeframe_overlay",
+      "canonical_term": "Multi-Timeframe Overlay"
+    },
+    {
+      "card_id": "multiple_order_blocks",
+      "canonical_term": "Multiple Order Blocks"
+    },
+    {
+      "card_id": "multiple_timeframe_analysis",
+      "canonical_term": "Multiple Timeframe Analysis"
+    },
+    {
+      "card_id": "new_day_opening_gap",
+      "canonical_term": "New Day Opening Gap"
+    },
+    {
+      "card_id": "new_day_opening_gap_ndog",
+      "canonical_term": "New Day Opening Gap (NDOG)"
+    },
+    {
+      "card_id": "new_week_opening_gap",
+      "canonical_term": "New Week Opening Gap"
+    },
+    {
+      "card_id": "new_york_continuation",
+      "canonical_term": "New York Continuation"
+    },
+    {
+      "card_id": "new_york_manipulation_profile",
+      "canonical_term": "New York Manipulation Profile"
+    },
+    {
+      "card_id": "new_york_open",
+      "canonical_term": "New York Open"
+    },
+    {
+      "card_id": "new_york_open_nyo",
+      "canonical_term": "New York Open (NYO)"
+    },
+    {
+      "card_id": "new_york_reversal",
+      "canonical_term": "New York Reversal"
+    },
+    {
+      "card_id": "new_york_session",
+      "canonical_term": "New York Session"
+    },
+    {
+      "card_id": "news_impact_classification",
+      "canonical_term": "News Impact Classification"
+    },
+    {
+      "card_id": "next_day_model",
+      "canonical_term": "Next Day Model"
+    },
+    {
+      "card_id": "non_farm_payrolls",
+      "canonical_term": "Non-Farm Payrolls"
+    },
+    {
+      "card_id": "ohlc_olhc",
+      "canonical_term": "OHLC / OLHC"
+    },
+    {
+      "card_id": "ohlc_open_high_low_close",
+      "canonical_term": "OHLC / Open High Low Close"
+    },
+    {
+      "card_id": "old_highs_and_lows",
+      "canonical_term": "Old Highs and Lows"
+    },
+    {
+      "card_id": "old_highs_and_old_lows",
+      "canonical_term": "Old Highs and Old Lows"
+    },
+    {
+      "card_id": "olhc_sequence",
+      "canonical_term": "OLHC Sequence"
+    },
+    {
+      "card_id": "open_close_time_lines",
+      "canonical_term": "Open Close Time Lines"
+    },
+    {
+      "card_id": "open_high_low_close",
+      "canonical_term": "Open High Low Close"
+    },
+    {
+      "card_id": "open_high_low_close_ohlc",
+      "canonical_term": "Open High Low Close (OHLC)"
+    },
+    {
+      "card_id": "open_high_low_close_open_low_high_close",
+      "canonical_term": "Open High Low Close / Open Low High Close"
+    },
+    {
+      "card_id": "open_low_high_close",
+      "canonical_term": "Open Low High Close"
+    },
+    {
+      "card_id": "open_high_low_close_structure",
+      "canonical_term": "Open, High, Low, Close Structure"
+    },
+    {
+      "card_id": "up_close_candle",
+      "canonical_term": "Opposing Candle"
+    },
+    {
+      "card_id": "opposing_run",
+      "canonical_term": "Opposing Run"
+    },
+    {
+      "card_id": "opposing_setup",
+      "canonical_term": "Opposing Setup"
+    },
+    {
+      "card_id": "optimal_trade_entry",
+      "canonical_term": "Optimal Trade Entry"
+    },
+    {
+      "card_id": "optimal_trade_entry_ote",
+      "canonical_term": "Optimal Trade Entry (OTE)"
+    },
+    {
+      "card_id": "optimal_trading_entry",
+      "canonical_term": "Optimal Trading Entry"
+    },
+    {
+      "card_id": "order_block",
+      "canonical_term": "Order Block"
+    },
+    {
+      "card_id": "order_block_ob",
+      "canonical_term": "Order Block (OB)"
+    },
+    {
+      "card_id": "order_block_breaker_block",
+      "canonical_term": "Order Block / Breaker Block"
+    },
+    {
+      "card_id": "order_block_and_change_of_character_entry",
+      "canonical_term": "Order Block and Change of Character Entry"
+    },
+    {
+      "card_id": "order_block_entry_types",
+      "canonical_term": "Order Block Entry Types"
+    },
+    {
+      "card_id": "order_block_liquidity_sweep_entry",
+      "canonical_term": "Order Block Liquidity Sweep Entry"
+    },
+    {
+      "card_id": "order_block_on_buy_side_of_curve",
+      "canonical_term": "Order Block on Buy Side of Curve"
+    },
+    {
+      "card_id": "order_block_projections",
+      "canonical_term": "Order Block Projections"
+    },
+    {
+      "card_id": "order_block_within_order_block_strategy",
+      "canonical_term": "Order Block within Order Block Strategy"
+    },
+    {
+      "card_id": "order_block_zone_handling",
+      "canonical_term": "Order Block Zone Handling"
+    },
+    {
+      "card_id": "order_book",
+      "canonical_term": "Order Book"
+    },
+    {
+      "card_id": "order_flow",
+      "canonical_term": "Order Flow"
+    },
+    {
+      "card_id": "order_flow_analysis",
+      "canonical_term": "Order Flow Analysis"
+    },
+    {
+      "card_id": "order_type_entry",
+      "canonical_term": "Order Type Entry"
+    },
+    {
+      "card_id": "ote_optimal_trade_entry",
+      "canonical_term": "OTE (Optimal Trade Entry)"
+    },
+    {
+      "card_id": "outside_bar",
+      "canonical_term": "Outside Bar"
+    },
+    {
+      "card_id": "overbought_and_oversold",
+      "canonical_term": "Overbought and Oversold"
+    },
+    {
+      "card_id": "overbought_and_oversold_levels",
+      "canonical_term": "Overbought and Oversold Levels"
+    },
+    {
+      "card_id": "partial_profit_taking",
+      "canonical_term": "Partial Profit Taking"
+    },
+    {
+      "card_id": "phases_of_price",
+      "canonical_term": "Phases of Price"
+    },
+    {
+      "card_id": "phases_of_price_blending",
+      "canonical_term": "Phases of Price Blending"
+    },
+    {
+      "card_id": "pip",
+      "canonical_term": "Pip"
+    },
+    {
+      "card_id": "pivot_and_target_usage",
+      "canonical_term": "Pivot and Target Usage"
+    },
+    {
+      "card_id": "pivot_points",
+      "canonical_term": "Pivot Points"
+    },
+    {
+      "card_id": "point_of_control",
+      "canonical_term": "Point of Control"
+    },
+    {
+      "card_id": "point_of_interest",
+      "canonical_term": "Point of Interest"
+    },
+    {
+      "card_id": "position_sizing",
+      "canonical_term": "Position Sizing"
+    },
+    {
+      "card_id": "position_sizing_calculator",
+      "canonical_term": "Position Sizing Calculator"
+    },
+    {
+      "card_id": "position_sizing_for_multiple_trades",
+      "canonical_term": "Position Sizing for Multiple Trades"
+    },
+    {
+      "card_id": "positional_entry",
+      "canonical_term": "Positional Entry"
+    },
+    {
+      "card_id": "power_of_3_accumulation_manipulation_distribution",
+      "canonical_term": "Power of 3 / Accumulation, Manipulation, Distribution"
+    },
+    {
+      "card_id": "power_of_3_amd",
+      "canonical_term": "Power of 3 / AMD"
+    },
+    {
+      "card_id": "power_of_3_amd_accumulation_manipulation_distribution",
+      "canonical_term": "Power of 3 / AMD (Accumulation, Manipulation, Distribution)"
+    },
+    {
+      "card_id": "power_of_3_indicator",
+      "canonical_term": "Power of 3 Indicator"
+    },
+    {
+      "card_id": "power_of_three",
+      "canonical_term": "Power of Three"
+    },
+    {
+      "card_id": "power_of_three_amd_accumulation_manipulation_distribution",
+      "canonical_term": "Power of Three / AMD (Accumulation, Manipulation, Distribution)"
+    },
+    {
+      "card_id": "precision_swing_point",
+      "canonical_term": "Precision Swing Point"
+    },
+    {
+      "card_id": "preliminary_support",
+      "canonical_term": "Preliminary Support"
+    },
+    {
+      "card_id": "premium",
+      "canonical_term": "Premium"
+    },
+    {
+      "card_id": "premium_discount",
+      "canonical_term": "Premium / Discount"
+    },
+    {
+      "card_id": "premium_and_discount",
+      "canonical_term": "Premium and Discount"
+    },
+    {
+      "card_id": "premium_and_discount_zones",
+      "canonical_term": "Premium and Discount Zones"
+    },
+    {
+      "card_id": "premium_discount_area",
+      "canonical_term": "Premium/Discount Area"
+    },
+    {
+      "card_id": "premium_discount_array",
+      "canonical_term": "Premium/Discount Array"
+    },
+    {
+      "card_id": "premium_discount_zone",
+      "canonical_term": "Premium/Discount Zone"
+    },
+    {
+      "card_id": "previous_candle_high_low",
+      "canonical_term": "Previous Candle High/Low"
+    },
+    {
+      "card_id": "previous_day_high",
+      "canonical_term": "Previous Day High"
+    },
+    {
+      "card_id": "previous_day_high_low",
+      "canonical_term": "Previous Day High / Low"
+    },
+    {
+      "card_id": "previous_day_high_previous_day_low",
+      "canonical_term": "Previous Day High / Previous Day Low"
+    },
+    {
+      "card_id": "previous_day_high_and_low",
+      "canonical_term": "Previous Day High and Low"
+    },
+    {
+      "card_id": "previous_day_high_low_pdh_pdl",
+      "canonical_term": "Previous Day High/Low (PDH/PDL)"
+    },
+    {
+      "card_id": "previous_day_low",
+      "canonical_term": "Previous Day Low"
+    },
+    {
+      "card_id": "previous_liquidity_taken",
+      "canonical_term": "Previous Liquidity Taken"
+    },
+    {
+      "card_id": "previous_month_high_low",
+      "canonical_term": "Previous Month High / Low"
+    },
+    {
+      "card_id": "previous_week_high_and_low",
+      "canonical_term": "Previous Week High and Low"
+    },
+    {
+      "card_id": "previous_week_high_low",
+      "canonical_term": "Previous Week High/Low"
+    },
+    {
+      "card_id": "price_action",
+      "canonical_term": "Price Action"
+    },
+    {
+      "card_id": "price_action_confirmation",
+      "canonical_term": "Price Action Confirmation"
+    },
+    {
+      "card_id": "price_delivery_array",
+      "canonical_term": "Price Delivery Array"
+    },
+    {
+      "card_id": "profit_taking_strategy",
+      "canonical_term": "Profit Taking Strategy"
+    },
+    {
+      "card_id": "projection",
+      "canonical_term": "Projection"
+    },
+    {
+      "card_id": "projection_as_standalone_target",
+      "canonical_term": "Projection as Standalone Target"
+    },
+    {
+      "card_id": "projection_target_levels",
+      "canonical_term": "Projection Target Levels"
+    },
+    {
+      "card_id": "prop_firm_account_risk_management",
+      "canonical_term": "Prop Firm Account Risk Management"
+    },
+    {
+      "card_id": "proprietary_trading_firm",
+      "canonical_term": "Proprietary Trading Firm"
+    },
+    {
+      "card_id": "propulsion_block",
+      "canonical_term": "Propulsion Block"
+    },
+    {
+      "card_id": "protected_high_low",
+      "canonical_term": "Protected High/Low"
+    },
+    {
+      "card_id": "protected_swing_protected_high_low",
+      "canonical_term": "Protected Swing / Protected High/Low"
+    },
+    {
+      "card_id": "pullback",
+      "canonical_term": "Pullback"
+    },
+    {
+      "card_id": "pullback_vs_reversal",
+      "canonical_term": "Pullback vs Reversal"
+    },
+    {
+      "card_id": "push_distance",
+      "canonical_term": "Push Distance"
+    },
+    {
+      "card_id": "quote_currency",
+      "canonical_term": "Quote Currency"
+    },
+    {
+      "card_id": "range_consolidation",
+      "canonical_term": "Range Consolidation"
+    },
+    {
+      "card_id": "range_detector",
+      "canonical_term": "Range Detector"
+    },
+    {
+      "card_id": "range_trading_trading_back_into_range",
+      "canonical_term": "Range Trading / Trading Back into Range"
+    },
+    {
+      "card_id": "range_trading_setup",
+      "canonical_term": "Range Trading Setup"
+    },
+    {
+      "card_id": "ranging_order_block",
+      "canonical_term": "Ranging Order Block"
+    },
+    {
+      "card_id": "reaccumulation",
+      "canonical_term": "Reaccumulation"
+    },
+    {
+      "card_id": "reaccumulation_redistribution",
+      "canonical_term": "Reaccumulation / Redistribution"
+    },
+    {
+      "card_id": "reaction_candle",
+      "canonical_term": "Reaction Candle"
+    },
+    {
+      "card_id": "rebalance_after_creation",
+      "canonical_term": "Rebalance After Creation"
+    },
+    {
+      "card_id": "rebalance_before_creation",
+      "canonical_term": "Rebalance Before Creation"
+    },
+    {
+      "card_id": "relative_equal_highs_relative_equal_lows",
+      "canonical_term": "Relative Equal Highs / Relative Equal Lows"
+    },
+    {
+      "card_id": "relative_strength",
+      "canonical_term": "Relative Strength"
+    },
+    {
+      "card_id": "relative_strength_relative_weakness",
+      "canonical_term": "Relative Strength / Relative Weakness"
+    },
+    {
+      "card_id": "relative_strength_and_weakness",
+      "canonical_term": "Relative Strength and Weakness"
+    },
+    {
+      "card_id": "relative_strength_index",
+      "canonical_term": "Relative Strength Index"
+    },
+    {
+      "card_id": "relevant_high_relevant_low",
+      "canonical_term": "Relevant High / Relevant Low"
+    },
+    {
+      "card_id": "relevant_swing_high_relevant_swing_low",
+      "canonical_term": "Relevant Swing High / Relevant Swing Low"
+    },
+    {
+      "card_id": "resistance_level",
+      "canonical_term": "Resistance Level"
+    },
+    {
+      "card_id": "retest",
+      "canonical_term": "Retest"
+    },
+    {
+      "card_id": "retest_entry",
+      "canonical_term": "Retest Entry"
+    },
+    {
+      "card_id": "reversal",
+      "canonical_term": "Reversal"
+    },
+    {
+      "card_id": "reversal_candle",
+      "canonical_term": "Reversal Candle"
+    },
+    {
+      "card_id": "reversal_entry",
+      "canonical_term": "Reversal Entry"
+    },
+    {
+      "card_id": "reversal_order_block",
+      "canonical_term": "Reversal Order Block"
+    },
+    {
+      "card_id": "reversal_pattern",
+      "canonical_term": "Reversal Pattern"
+    },
+    {
+      "card_id": "reversal_sequence",
+      "canonical_term": "Reversal Sequence"
+    },
+    {
+      "card_id": "reversal_setup",
+      "canonical_term": "Reversal Setup"
+    },
+    {
+      "card_id": "reversal_to_expansion_candle",
+      "canonical_term": "Reversal to Expansion Candle"
+    },
+    {
+      "card_id": "reversal_vs_continuation",
+      "canonical_term": "Reversal vs Continuation"
+    },
+    {
+      "card_id": "risk_management",
+      "canonical_term": "Risk Management"
+    },
+    {
+      "card_id": "risk_management_in_box_setup",
+      "canonical_term": "Risk Management in Box Setup"
+    },
+    {
+      "card_id": "risk_management_in_scalping",
+      "canonical_term": "Risk Management in Scalping"
+    },
+    {
+      "card_id": "risk_multiple",
+      "canonical_term": "Risk Multiple"
+    },
+    {
+      "card_id": "risk_to_reward",
+      "canonical_term": "Risk to Reward"
+    },
+    {
+      "card_id": "risk_to_reward_management",
+      "canonical_term": "Risk to Reward Management"
+    },
+    {
+      "card_id": "risk_to_reward_r",
+      "canonical_term": "Risk-to-Reward (R)"
+    },
+    {
+      "card_id": "risk_to_reward_ratio",
+      "canonical_term": "Risk-to-Reward Ratio"
+    },
+    {
+      "card_id": "rsi_divergence",
+      "canonical_term": "RSI Divergence"
+    },
+    {
+      "card_id": "runaway_gap",
+      "canonical_term": "Runaway Gap"
+    },
+    {
+      "card_id": "runners",
+      "canonical_term": "Runners"
+    },
+    {
+      "card_id": "scalping",
+      "canonical_term": "Scalping"
+    },
+    {
+      "card_id": "scalping_with_lower_timeframes",
+      "canonical_term": "Scalping with Lower Timeframes"
+    },
+    {
+      "card_id": "secondary_test",
+      "canonical_term": "Secondary Test"
+    },
+    {
+      "card_id": "seek_and_destroy_profile",
+      "canonical_term": "Seek and Destroy Profile"
+    },
+    {
+      "card_id": "sell_side_liquidity",
+      "canonical_term": "Sell Side Liquidity"
+    },
+    {
+      "card_id": "seller_absorption",
+      "canonical_term": "Seller Absorption"
+    },
+    {
+      "card_id": "selling_climax",
+      "canonical_term": "Selling Climax"
+    },
+    {
+      "card_id": "series_of_down_close_candles",
+      "canonical_term": "Series of Down Close Candles"
+    },
+    {
+      "card_id": "series_of_down_closed_candles",
+      "canonical_term": "Series of Down Closed Candles"
+    },
+    {
+      "card_id": "session_analysis_asia_london_new_york",
+      "canonical_term": "Session Analysis (Asia/London/New York)"
+    },
+    {
+      "card_id": "session_high",
+      "canonical_term": "Session High"
+    },
+    {
+      "card_id": "session_high_session_low",
+      "canonical_term": "Session High / Session Low"
+    },
+    {
+      "card_id": "session_high_and_low",
+      "canonical_term": "Session High and Low"
+    },
+    {
+      "card_id": "session_high_low",
+      "canonical_term": "Session High/Low"
+    },
+    {
+      "card_id": "session_low",
+      "canonical_term": "Session Low"
+    },
+    {
+      "card_id": "session_lows_highs",
+      "canonical_term": "Session Lows/Highs"
+    },
+    {
+      "card_id": "session_based_price_action",
+      "canonical_term": "Session-based Price Action"
+    },
+    {
+      "card_id": "session_based_trading_asia_london_new_york",
+      "canonical_term": "Session-based Trading (Asia/London/New York)"
+    },
+    {
+      "card_id": "setup_validity_color_coding",
+      "canonical_term": "Setup Validity Color Coding"
+    },
+    {
+      "card_id": "shallow_opposing_run",
+      "canonical_term": "Shallow Opposing Run"
+    },
+    {
+      "card_id": "shallow_wick_vs_large_opposing_run",
+      "canonical_term": "Shallow Wick vs Large Opposing Run"
+    },
+    {
+      "card_id": "short_position_tool",
+      "canonical_term": "Short Position Tool"
+    },
+    {
+      "card_id": "short_term_high_short_term_low",
+      "canonical_term": "Short-Term High / Short-Term Low"
+    },
+    {
+      "card_id": "short_term_high_low",
+      "canonical_term": "Short-Term High/Low"
+    },
+    {
+      "card_id": "short_term_highs_and_lows",
+      "canonical_term": "Short-term Highs and Lows"
+    },
+    {
+      "card_id": "sibi_bisi",
+      "canonical_term": "SIBI / BISI"
+    },
+    {
+      "card_id": "sideways_market",
+      "canonical_term": "Sideways Market"
+    },
+    {
+      "card_id": "silver_bullet",
+      "canonical_term": "Silver Bullet"
+    },
+    {
+      "card_id": "silver_bullet_strategy",
+      "canonical_term": "Silver Bullet Strategy"
+    },
+    {
+      "card_id": "simple_moving_average",
+      "canonical_term": "Simple Moving Average"
+    },
+    {
+      "card_id": "simple_moving_average_sma_50",
+      "canonical_term": "Simple Moving Average (SMA 50)"
+    },
+    {
+      "card_id": "small_wick_vs_large_wick",
+      "canonical_term": "Small Wick vs Large Wick"
+    },
+    {
+      "card_id": "smart_money",
+      "canonical_term": "Smart Money"
+    },
+    {
+      "card_id": "smart_money_concepts",
+      "canonical_term": "Smart Money Concepts"
+    },
+    {
+      "card_id": "smart_money_manipulation",
+      "canonical_term": "Smart Money Manipulation"
+    },
+    {
+      "card_id": "smart_money_reversal",
+      "canonical_term": "Smart Money Reversal"
+    },
+    {
+      "card_id": "smart_money_technique",
+      "canonical_term": "Smart Money Technique"
+    },
+    {
+      "card_id": "smart_money_technique_smt",
+      "canonical_term": "Smart Money Technique (SMT)"
+    },
+    {
+      "card_id": "smart_money_tool_divergence",
+      "canonical_term": "Smart Money Tool Divergence"
+    },
+    {
+      "card_id": "spring",
+      "canonical_term": "Spring"
+    },
+    {
+      "card_id": "standard_deviation",
+      "canonical_term": "Standard Deviation"
+    },
+    {
+      "card_id": "standard_deviation_projection",
+      "canonical_term": "Standard Deviation Projection"
+    },
+    {
+      "card_id": "static_and_dynamic_liquidity",
+      "canonical_term": "Static and Dynamic Liquidity"
+    },
+    {
+      "card_id": "static_liquidity",
+      "canonical_term": "Static Liquidity"
+    },
+    {
+      "card_id": "stochastic_relative_strength_index",
+      "canonical_term": "Stochastic Relative Strength Index"
+    },
+    {
+      "card_id": "stocks",
+      "canonical_term": "Stocks"
+    },
+    {
+      "card_id": "stop_loss",
+      "canonical_term": "Stop Loss"
+    },
+    {
+      "card_id": "stop_loss_placement",
+      "canonical_term": "Stop Loss Placement"
+    },
+    {
+      "card_id": "stop_loss_placement_invalidation",
+      "canonical_term": "Stop Loss Placement / Invalidation"
+    },
+    {
+      "card_id": "stop_loss_order",
+      "canonical_term": "Stop-Loss Order"
+    },
+    {
+      "card_id": "strat_reversal",
+      "canonical_term": "Strat Reversal"
+    },
+    {
+      "card_id": "strategy_two_liquidity_zone_sweep_fvg",
+      "canonical_term": "Strategy Two (Liquidity Zone Sweep + FVG)"
+    },
+    {
+      "card_id": "strong_and_weak_highs_and_lows",
+      "canonical_term": "Strong and Weak Highs and Lows"
+    },
+    {
+      "card_id": "strong_and_weak_levels",
+      "canonical_term": "Strong and Weak Levels"
+    },
+    {
+      "card_id": "strong_and_weak_price_levels",
+      "canonical_term": "Strong and Weak Price Levels"
+    },
+    {
+      "card_id": "strong_candle_close",
+      "canonical_term": "Strong Candle Close"
+    },
+    {
+      "card_id": "strong_level_criteria",
+      "canonical_term": "Strong Level Criteria"
+    },
+    {
+      "card_id": "strong_trend",
+      "canonical_term": "Strong Trend"
+    },
+    {
+      "card_id": "structural_target",
+      "canonical_term": "Structural Target"
+    },
+    {
+      "card_id": "supply_and_demand_trading_strategies",
+      "canonical_term": "Supply and Demand Trading Strategies"
+    },
+    {
+      "card_id": "supply_and_demand_zones",
+      "canonical_term": "Supply and Demand Zones"
+    },
+    {
+      "card_id": "supply_zone",
+      "canonical_term": "Supply Zone"
+    },
+    {
+      "card_id": "support_and_resistance",
+      "canonical_term": "Support and Resistance"
+    },
+    {
+      "card_id": "support_and_resistance_flip",
+      "canonical_term": "Support and Resistance Flip"
+    },
+    {
+      "card_id": "support_and_resistance_levels",
+      "canonical_term": "Support and Resistance Levels"
+    },
+    {
+      "card_id": "support_and_resistance_levels_with_breaks_luxalgo",
+      "canonical_term": "Support and Resistance Levels with Breaks (LuxAlgo)"
+    },
+    {
+      "card_id": "support_level",
+      "canonical_term": "Support Level"
+    },
+    {
+      "card_id": "sweeping_pullback_model",
+      "canonical_term": "Sweeping Pullback Model"
+    },
+    {
+      "card_id": "swing_formation",
+      "canonical_term": "Swing Formation"
+    },
+    {
+      "card_id": "swing_high",
+      "canonical_term": "Swing High"
+    },
+    {
+      "card_id": "swing_high_swing_low",
+      "canonical_term": "Swing High / Swing Low"
+    },
+    {
+      "card_id": "swing_high_and_swing_low",
+      "canonical_term": "Swing High and Swing Low"
+    },
+    {
+      "card_id": "swing_highs_swing_lows",
+      "canonical_term": "Swing Highs / Swing Lows"
+    },
+    {
+      "card_id": "swing_low",
+      "canonical_term": "Swing Low"
+    },
+    {
+      "card_id": "swing_low_swing_high",
+      "canonical_term": "Swing Low / Swing High"
+    },
+    {
+      "card_id": "turning_point",
+      "canonical_term": "Swing Point"
+    },
+    {
+      "card_id": "swing_point_confirmation",
+      "canonical_term": "Swing Point Confirmation"
+    },
+    {
+      "card_id": "swing_point_trading",
+      "canonical_term": "Swing Point Trading"
+    },
+    {
+      "card_id": "turning_points",
+      "canonical_term": "Swing Points"
+    },
+    {
+      "card_id": "t_spot",
+      "canonical_term": "T-Spot"
+    },
+    {
+      "card_id": "take_profit",
+      "canonical_term": "Take Profit"
+    },
+    {
+      "card_id": "technical_analysis",
+      "canonical_term": "Technical Analysis"
+    },
+    {
+      "card_id": "thank_god_it_s_friday",
+      "canonical_term": "Thank God It's Friday"
+    },
+    {
+      "card_id": "three_day_lookback",
+      "canonical_term": "Three Day Lookback"
+    },
+    {
+      "card_id": "three_drives_pattern",
+      "canonical_term": "Three Drives Pattern"
+    },
+    {
+      "card_id": "thursday_counter_weekly_profile",
+      "canonical_term": "Thursday Counter Weekly Profile"
+    },
+    {
+      "card_id": "time_filter",
+      "canonical_term": "Time Filter"
+    },
+    {
+      "card_id": "time_frame",
+      "canonical_term": "Time Frame"
+    },
+    {
+      "card_id": "time_frame_alignment",
+      "canonical_term": "Time Frame Alignment"
+    },
+    {
+      "card_id": "time_frame_combination",
+      "canonical_term": "Time Frame Combination"
+    },
+    {
+      "card_id": "time_frame_confirmation",
+      "canonical_term": "Time Frame Confirmation"
+    },
+    {
+      "card_id": "time_frame_confluence",
+      "canonical_term": "Time Frame Confluence"
+    },
+    {
+      "card_id": "time_frame_ratio",
+      "canonical_term": "Time Frame Ratio"
+    },
+    {
+      "card_id": "time_frame_selection_for_entry",
+      "canonical_term": "Time Frame Selection for Entry"
+    },
+    {
+      "card_id": "time_of_day_and_week_for_trading",
+      "canonical_term": "Time of Day and Week for Trading"
+    },
+    {
+      "card_id": "time_based_liquidity",
+      "canonical_term": "Time-based Liquidity"
+    },
+    {
+      "card_id": "timeframe_alignment",
+      "canonical_term": "Timeframe Alignment"
+    },
+    {
+      "card_id": "timeframe_pairing",
+      "canonical_term": "Timeframe Pairing"
+    },
+    {
+      "card_id": "top_down_analysis",
+      "canonical_term": "Top Down Analysis"
+    },
+    {
+      "card_id": "tradeoffs",
+      "canonical_term": "Tradeoffs"
+    },
+    {
+      "card_id": "trading_hours",
+      "canonical_term": "Trading Hours"
+    },
+    {
+      "card_id": "trading_range",
+      "canonical_term": "Trading Range"
+    },
+    {
+      "card_id": "trading_style",
+      "canonical_term": "Trading Style"
+    },
+    {
+      "card_id": "tradingview_risk_reward_tool",
+      "canonical_term": "TradingView Risk-Reward Tool"
+    },
+    {
+      "card_id": "trailing_stop",
+      "canonical_term": "Trailing Stop"
+    },
+    {
+      "card_id": "trend",
+      "canonical_term": "Trend"
+    },
+    {
+      "card_id": "trend_fvg_liquidity_sweep_strategy",
+      "canonical_term": "Trend + FVG + Liquidity Sweep Strategy"
+    },
+    {
+      "card_id": "trend_channel",
+      "canonical_term": "Trend Channel"
+    },
+    {
+      "card_id": "trend_continuation",
+      "canonical_term": "Trend Continuation"
+    },
+    {
+      "card_id": "trend_definition",
+      "canonical_term": "Trend Definition"
+    },
+    {
+      "card_id": "trend_line",
+      "canonical_term": "Trend Line"
+    },
+    {
+      "card_id": "trend_trading_with_support_and_resistance",
+      "canonical_term": "Trend Trading with Support and Resistance"
+    },
+    {
+      "card_id": "trendline_liquidity",
+      "canonical_term": "Trendline Liquidity"
+    },
+    {
+      "card_id": "triple_divergence",
+      "canonical_term": "Triple Divergence"
+    },
+    {
+      "card_id": "turtle_soup",
+      "canonical_term": "Turtle Soup"
+    },
+    {
+      "card_id": "turtle_soup_entry",
+      "canonical_term": "Turtle Soup Entry"
+    },
+    {
+      "card_id": "twitter_model",
+      "canonical_term": "Twitter Model"
+    },
+    {
+      "card_id": "two_stage_smt",
+      "canonical_term": "Two-Stage SMT"
+    },
+    {
+      "card_id": "two_stage_smt_sequence",
+      "canonical_term": "Two-Stage SMT Sequence"
+    },
+    {
+      "card_id": "unicorn_entry_model",
+      "canonical_term": "Unicorn Entry Model"
+    },
+    {
+      "card_id": "unicorn_model",
+      "canonical_term": "Unicorn Model"
+    },
+    {
+      "card_id": "uptrend",
+      "canonical_term": "Uptrend"
+    },
+    {
+      "card_id": "uptrend_bullish_trend",
+      "canonical_term": "Uptrend / Bullish Trend"
+    },
+    {
+      "card_id": "us_dollar_index_dxy_bias_framework",
+      "canonical_term": "US Dollar Index (DXY) Bias Framework"
+    },
+    {
+      "card_id": "v_shaped_reversal",
+      "canonical_term": "V-Shape Reversal"
+    },
+    {
+      "card_id": "valid_pullback",
+      "canonical_term": "Valid Pullback"
+    },
+    {
+      "card_id": "valid_separation",
+      "canonical_term": "Valid Separation"
+    },
+    {
+      "card_id": "value_area",
+      "canonical_term": "Value Area"
+    },
+    {
+      "card_id": "volatility",
+      "canonical_term": "Volatility"
+    },
+    {
+      "card_id": "volume",
+      "canonical_term": "Volume"
+    },
+    {
+      "card_id": "volume_and_balance_imbalance",
+      "canonical_term": "Volume and Balance (Imbalance)"
+    },
+    {
+      "card_id": "volume_and_bounce",
+      "canonical_term": "Volume and Bounce"
+    },
+    {
+      "card_id": "volume_footprint",
+      "canonical_term": "Volume Footprint"
+    },
+    {
+      "card_id": "volume_imbalance",
+      "canonical_term": "Volume Imbalance"
+    },
+    {
+      "card_id": "volume_profile",
+      "canonical_term": "Volume Profile"
+    },
+    {
+      "card_id": "volume_profile_strategy",
+      "canonical_term": "Volume Profile Strategy"
+    },
+    {
+      "card_id": "weak_support_resistance_levels",
+      "canonical_term": "Weak Support/Resistance Levels"
+    },
+    {
+      "card_id": "weekly_bias",
+      "canonical_term": "Weekly Bias"
+    },
+    {
+      "card_id": "weekly_profile",
+      "canonical_term": "Weekly Profile"
+    },
+    {
+      "card_id": "wick",
+      "canonical_term": "Wick"
+    },
+    {
+      "card_id": "wick_closure",
+      "canonical_term": "Wick Closure"
+    },
+    {
+      "card_id": "wick_disrespected",
+      "canonical_term": "Wick Disrespected"
+    },
+    {
+      "card_id": "wick_formation",
+      "canonical_term": "Wick Formation"
+    },
+    {
+      "card_id": "wick_respected",
+      "canonical_term": "Wick Respected"
+    },
+    {
+      "card_id": "wick_size",
+      "canonical_term": "Wick Size"
+    },
+    {
+      "card_id": "wick_size_and_expansion",
+      "canonical_term": "Wick Size and Expansion"
+    },
+    {
+      "card_id": "wick_size_and_expansion_support",
+      "canonical_term": "Wick Size and Expansion Support"
+    },
+    {
+      "card_id": "wick_zone",
+      "canonical_term": "Wick Zone"
+    },
+    {
+      "card_id": "wick_to_body_ratio",
+      "canonical_term": "Wick-to-Body Ratio"
+    },
+    {
+      "card_id": "win_rate",
+      "canonical_term": "Win Rate"
+    },
+    {
+      "card_id": "win_rate_and_risk_reward_correlation",
+      "canonical_term": "Win Rate and Risk-Reward Correlation"
+    }
+  ]
+}
